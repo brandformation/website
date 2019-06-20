@@ -1135,7 +1135,6 @@ lib.properties = {
 };
 
 
-
 // bootstrap callback support:
 
 (lib.Stage = function(canvas) {
